@@ -1,0 +1,195 @@
+keys,zh_CN
+UI_TITLE,堡垒之下
+UI_GAME_NAME,堡垒之下
+UI_SUBTITLE,深入地牢，带回财宝，守住堡垒。
+UI_NEW_GAME,新游戏
+UI_CONTINUE,继续游戏
+UI_PLAY,开始试玩
+UI_REPLAY,再玩一次
+UI_MAIN_MENU,返回主菜单
+UI_QUIT,退出游戏
+UI_BACK,返回
+UI_RESUME,继续
+UI_PAUSE,暂停
+UI_PAUSE_TITLE,游戏已暂停
+UI_CONTROLS,操作说明
+UI_HELP,操作说明
+UI_SETTINGS,设置
+UI_CLOSE,关闭
+UI_CONFIRM,确认
+UI_CANCEL,取消
+UI_PREPARATION_TITLE,堡垒整备
+UI_DUNGEON_TITLE,地下探险
+UI_DEFENSE_TITLE,守卫堡垒
+UI_FAILURE_TITLE,本轮失败
+UI_FAILURE_PLAYER_DEFEATED,在地牢中倒下了。
+UI_FAILURE_CASTLE_DESTROYED,城堡被摧毁。
+UI_FAILURE_EXPEDITION_ABANDONED,已放弃远征。
+UI_FAILURE_DUNGEON,在地牢中倒下了。
+UI_FAILURE_CASTLE,城堡被摧毁。
+UI_FAILURE_ABANDON,已放弃远征。
+UI_RETRY,重试
+UI_RETRY_ROUND,重试
+UI_GO_DUNGEON,进入地牢
+UI_ENTER_DUNGEON,进入地牢
+UI_START_DEFENSE,开始守城
+UI_BUILD_TOWER,建造箭塔
+UI_UPGRADE_TOWER,升级箭塔
+UI_REPAIR_CASTLE,修复城堡
+UI_TOWER_SLOT,塔位
+UI_EMPTY_SLOT,空槽位
+UI_TOWER_LEVEL,等级
+UI_TOWER_MAX,已满级
+UI_BUILD_COST,建造：25 金币
+UI_UPGRADE_COST,升级：35 金币
+UI_REPAIR_COST,20金币 / +35耐久
+UI_BUILD_HELP,点击地图上的编号塔位，查看价格并确认建造或升级。
+UI_BANK_GOLD,银行金币
+UI_GOLD,金币
+UI_TOWERS_BUILT,箭塔数
+UI_CASTLE_HP,城堡耐久
+UI_PLAYER_HP,士兵生命
+UI_BAG_GOLD,袋内金币
+UI_TARGET_KEY,目标钥匙
+UI_KEY,钥匙
+UI_KEY_MISSING,未获得
+UI_KEY_READY,已获得
+UI_ALARM,警报
+UI_ALARM_SAFE,无额外警报
+UI_ALARM_ACTIVE,封印增援：守城增加 %s。
+UI_ROUND,轮次
+UI_ENEMIES,剩余敌人
+UI_ENEMIES_LEFT,剩余敌人
+UI_SPAWNING,敌人正在接近
+UI_WAVE_FINISHED,进攻结束
+UI_FOCUS,集火目标
+UI_FOCUS_NONE,自动选敌
+UI_RALLY,加大火力
+UI_RALLY_READY,加大火力可用
+UI_RALLY_ACTIVE,加大火力生效中
+UI_RALLY_USED,加大火力已使用
+UI_RALLY_DESCRIPTION,全体箭塔射速提升约50%，持续4秒；冷却12秒。
+UI_DEFENSE_HELP,"点击敌人集火。
+空格：加大火力。
+守城期间无法建设。"
+UI_CASTLE_DESTROYED,城堡已被摧毁
+UI_LOOT_GAIN,本轮带回金币
+UI_EXTRA_ENEMY,封印增援
+UI_RESULT_GOLD,带回金币
+UI_RESULT_ALARM,封印箱警报
+UI_RESULT_RISK_SAFE,稳健路线：没有打开封印箱
+UI_RESULT_RISK_ALARM,冒险路线：打开封印箱，击退封印增援
+UI_RESULT_TIME,试玩用时
+UI_RESULT_ROUND,完成轮次
+UI_INTERACT,按 E 交互
+UI_INTERACT_CHEST,按 E 打开普通宝箱
+UI_INTERACT_SEALED_CHEST,按 E 查看封印宝箱
+UI_INTERACT_STAIRS,按 E 携带目标钥匙撤离
+UI_INTERACT_KEY,按 E 拾取目标钥匙
+UI_INTERACT_DOOR_KEY,按 E 拾取房门钥匙
+UI_INTERACT_POTION,按 E 使用治疗药水
+UI_INTERACT_DOOR,按 E 打开房门
+UI_KEY_REQUIRED,先找到目标钥匙，才能带着财宝撤离。
+UI_KEY_FOUND,已获得目标钥匙，返回入口墙梯！
+UI_DOOR_KEY_FOUND,已获得房门钥匙。目标钥匙不会被普通门消耗。
+UI_DOOR_LOCKED,需要房门钥匙才能开门。
+UI_CHEST_OPENED,宝箱已打开
+UI_GOLD_PICKED,金币已装入袋中
+UI_POTION_HEALED,生命已恢复
+UI_POTION_FULL,生命已满，药水未消耗。
+UI_SPIKES_WARNING,尖刺即将升起！
+UI_EXPEDITION_ABANDON,放弃远征
+UI_ABANDON_TITLE,放弃这次远征？
+UI_ABANDON_DESCRIPTION,放弃后，本轮收获将丢失。
+UI_SEALED_TITLE,打开封印宝箱？
+UI_SEALED_DESCRIPTION,额外获得 %d 金币，本轮守城增加 %s。要打开封印吗？
+UI_SEALED_ACCEPT,打开，接受警报
+UI_SEALED_DECLINE,保持封印
+UI_SEALED_OPENED,封印已解除：+%d 金币，本轮守城增加 %s。
+UI_ALARM_WARNING,本轮守城将出现封印增援：%s。
+UI_CONTROLS_DUNGEON,"地牢：WASD 移动；J / 左键剑击；
+K / 右键射箭；E 交互；Esc 暂停。
+剑与弓朝左右攻击，移动或鼠标定向。
+拿到目标钥匙，回入口按 E 撤离。"
+UI_CONTROLS_FORTRESS,"地表：鼠标选择槽位，建造或升级箭塔，修复城堡。
+先整备，再进入地牢；带回的金币结算后可继续建设。
+袋内金币与银行金币分别记录。"
+UI_CONTROLS_DEFENSE,"整备：点击塔位建造或升级。
+守城：点击敌人集火，空格加大火力。
+射速提升约50%，持续4秒、冷却12秒。
+守城时无法建设；Esc 暂停。"
+UI_OBJECTIVE_PREPARATION,整备箭塔与城堡，然后进入地牢。
+UI_OBJECTIVE_DUNGEON,寻找目标钥匙与财宝，返回入口墙梯撤离。
+UI_OBJECTIVE_SETTLEMENT,用带回的金币建设，准备迎接本轮怪物。
+UI_OBJECTIVE_DEFENSE,守住城堡，消灭本波全部敌人。
+UI_ERR_NOT_ENOUGH_GOLD,金币不足
+UI_ERR_NOT_ENOUGH_RESOURCES,金币不足
+UI_RESOURCES_NOT_ENOUGH,金币不足
+UI_ERR_WRONG_PHASE,当前阶段不能进行这项操作
+UI_ERR_SLOT_OCCUPIED,这个槽位已经有箭塔
+UI_ERR_SLOT_EMPTY,请先在此槽位建造箭塔
+UI_ERR_INVALID_SLOT,无效的箭塔槽位
+UI_ERR_TOWER_MAX_LEVEL,箭塔已经达到最高等级
+UI_ERR_FULL_HEALTH,城堡耐久已满，无需修复
+UI_ERR_NO_TARGET_KEY,尚未获得目标钥匙
+UI_ERR_ALREADY_USED,本轮已经使用过这项操作
+UI_ERR_ALREADY_COLLECTED,这份奖励已领取
+UI_ERR_RALLY_USED,加大火力正在冷却
+UI_ERR_NO_FOCUS_TARGET,没有可集火的目标
+UI_ERR_UNKNOWN,操作未完成，请重试
+UI_ERR_SAVE_UNAVAILABLE,一轮试玩暂不提供存档
+UI_NO_SAVE,暂无可继续的记录
+UI_MENU_RETURN_NOTICE,返回主菜单会放弃本轮未完成的进度。
+UI_LOADING,加载中
+UI_YES,是
+UI_NO,否
+UI_MSG_LOOT_FOUND,找到 25 金币！
+UI_MSG_DEFEAT_GUARD,击败守卫后才能取走钥匙。
+UI_MSG_KEY_FOUND,已拿到目标钥匙，返回入口墙梯！
+UI_MSG_HEALED,生命已恢复。
+UI_MSG_HEALTH_FULL,生命已满，药水保留。
+UI_MSG_NOTHING_NEARBY,靠近箱子、钥匙、药水或墙梯后按 E。
+UI_MSG_SEAL_OPENED,封印已打开：+%d 金币，本轮守城增加 %s。
+UI_MSG_GATE_OPENED,中间房守卫已清除，奖励房门已打开。
+UI_MSG_KEY_READY,奖励房守卫已击败，可以拿钥匙。
+UI_ABANDON,放弃远征
+UI_CONTROLS_DUNGEON_SHORT,WASD 移动 · J/左键 剑击 · K/右键 射箭 · E 交互 · Esc 暂停；取钥匙后回入口撤离。
+UI_ALARM_SHORT,封印增援
+UI_START_CAMPAIGN,开始冒险（3轮）
+UI_CAMPAIGN_COMPLETE,三轮守城成功
+UI_CAMPAIGN_DONE,你征服了三层地牢，并守住了最后的进攻！
+UI_CAMPAIGN_REPLAY_NOTICE,"再玩一次将重置金币和建设，
+开始新的三轮冒险。"
+UI_SOUND_ON,声音
+UI_SOUND_OFF,静音
+UI_SOUND_TIP,点击切换音乐与音效。
+UI_DUNGEON_LEVEL_1,旧矿洞
+UI_DUNGEON_LEVEL_2,回廊牢狱
+UI_DUNGEON_LEVEL_3,亡灵祭厅
+UI_ROUTE_CLASSIC,中路进攻；点击敌人集火，空格加大火力。
+UI_ROUTE_SPLIT,双路：A 北侧 · B 南侧；点击集火，空格加大火力。
+UI_MONSTER_SKELETON,骷髅
+UI_MONSTER_ARMORED_SKELETON,重甲骷髅
+UI_MONSTER_SKULL,浮空魔颅
+UI_MONSTER_VAMPIRE,精英吸血鬼
+UI_MONSTER_TORCH,火炬哥布林
+UI_MONSTER_TNT,炸弹哥布林
+UI_MONSTER_ORC,兽人
+UI_MONSTER_SLIME,史莱姆
+UI_MAP_BUILD_HELP,"点击地图塔位
+建造或升级箭塔"
+UI_ROUTE_FIXED,A 上路 · B 下路
+UI_RALLY_COOLDOWN,加大火力 %d秒
+UI_RALLY_TIP,全体箭塔射速提升约%d%%，持续%d秒、冷却%d秒。暂停期间冷却停止。
+UI_TOWER_SITE_TITLE,箭塔 · 塔位 %d
+UI_TOWER_SITE_STATS,"当前等级：%d
+射程：%d
+目标伤害：%d"
+UI_TOWER_SITE_COST,"需要：%d 金币
+持有：%d 金币"
+UI_FIRST_EXPEDITION_HINT,"先探险带回金币
+再建造或升级箭塔"
+UI_TOWER_COMPARISON,"伤害 %d > %d
+射速 %.1f > %.1f /秒"
+UI_TOWER_SHORTFALL,金币不足：%d
+UI_CONTROLS_DUNGEON_BRIEF,WASD 移动 · J/左键 剑击 · K/右键 射箭 · E 交互 · Esc 暂停

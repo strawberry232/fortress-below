@@ -1,0 +1,254 @@
+[
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-skeleton1_idle.png",
+    "target": "game/assets/enemies/skeleton_idle.png",
+    "source_sha256": "86b69df707986695d581f037e712668e700713b16ef2f51db10a06a7466035cb",
+    "sha256": "86b69df707986695d581f037e712668e700713b16ef2f51db10a06a7466035cb",
+    "bytes": 776
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-skeleton1_movement.png",
+    "target": "game/assets/enemies/skeleton_walk.png",
+    "source_sha256": "11ad26aaeda377fdad64aa6127e575900fd01198a36dbda6fdb19020d4d85469",
+    "sha256": "11ad26aaeda377fdad64aa6127e575900fd01198a36dbda6fdb19020d4d85469",
+    "bytes": 1356
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-skeleton1_attack.png",
+    "target": "game/assets/enemies/skeleton_attack.png",
+    "source_sha256": "fa4ce93c93b3d1f2ce67e67596a2f261fd380676ef7756069355805518b379b3",
+    "sha256": "fa4ce93c93b3d1f2ce67e67596a2f261fd380676ef7756069355805518b379b3",
+    "bytes": 1822
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-skeleton1_take_damage.png",
+    "target": "game/assets/enemies/skeleton_hurt.png",
+    "source_sha256": "5c2003bc20eca1197c57ccc51ca9933e0df95655f7a48892b19a636281c95f46",
+    "sha256": "5c2003bc20eca1197c57ccc51ca9933e0df95655f7a48892b19a636281c95f46",
+    "bytes": 878
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-skeleton1_death.png",
+    "target": "game/assets/enemies/skeleton_death.png",
+    "source_sha256": "4f5a8ff931afe412a9e015de48225b86a2a4ae22c7ab7dfbeca2ac47d1da8984",
+    "sha256": "4f5a8ff931afe412a9e015de48225b86a2a4ae22c7ab7dfbeca2ac47d1da8984",
+    "bytes": 2463
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-skeleton2_idle.png",
+    "target": "game/assets/enemies/armored_skeleton_idle.png",
+    "source_sha256": "e73d246d6c3e74fbcc1b4aa1a464455ce3eca03e7d417bdf5a5440a5fabc26df",
+    "sha256": "e73d246d6c3e74fbcc1b4aa1a464455ce3eca03e7d417bdf5a5440a5fabc26df",
+    "bytes": 857
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-skeleton2_movemen.png",
+    "target": "game/assets/enemies/armored_skeleton_walk.png",
+    "source_sha256": "14749bacfb56b557b91c22cdcb5311c6c739492b5f966b7b11445ecbb8941875",
+    "sha256": "14749bacfb56b557b91c22cdcb5311c6c739492b5f966b7b11445ecbb8941875",
+    "bytes": 1578
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-skeleton2_attack.png",
+    "target": "game/assets/enemies/armored_skeleton_attack.png",
+    "source_sha256": "efc3db596b3669ad172c5c4f5de34670dc6f706d1151c321e1ea816cdbc813f7",
+    "sha256": "efc3db596b3669ad172c5c4f5de34670dc6f706d1151c321e1ea816cdbc813f7",
+    "bytes": 2541
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-skeleton2_take_damage.png",
+    "target": "game/assets/enemies/armored_skeleton_hurt.png",
+    "source_sha256": "97c8b1983cd3067ccf28e00a973333a34c36de518749d5e059ff82d251883a22",
+    "sha256": "97c8b1983cd3067ccf28e00a973333a34c36de518749d5e059ff82d251883a22",
+    "bytes": 1082
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-skeleton2_death.png",
+    "target": "game/assets/enemies/armored_skeleton_death.png",
+    "source_sha256": "9f6992451060ee0adc4a9143b4e72d6f73927c379d1bd20905b838cc5f4b5685",
+    "sha256": "9f6992451060ee0adc4a9143b4e72d6f73927c379d1bd20905b838cc5f4b5685",
+    "bytes": 2590
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-vampire_idle.png",
+    "target": "game/assets/enemies/vampire_idle.png",
+    "source_sha256": "937d7d811d6a264e3a073fe06da1b2e459a534170e0bb915eb163c592388be3b",
+    "sha256": "937d7d811d6a264e3a073fe06da1b2e459a534170e0bb915eb163c592388be3b",
+    "bytes": 782
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-vampire_movement.png",
+    "target": "game/assets/enemies/vampire_walk.png",
+    "source_sha256": "d84afcd7da250d7f890a325970e145967168703bcb3bb6e45b2f5a7e75fc903d",
+    "sha256": "d84afcd7da250d7f890a325970e145967168703bcb3bb6e45b2f5a7e75fc903d",
+    "bytes": 1337
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-vampire_attack.png",
+    "target": "game/assets/enemies/vampire_attack.png",
+    "source_sha256": "35ae1a86a146309466b8c97cf4e3d359ebc106ddb4b6d942c71495893571508c",
+    "sha256": "35ae1a86a146309466b8c97cf4e3d359ebc106ddb4b6d942c71495893571508c",
+    "bytes": 4079
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-vampire_take_damage.png",
+    "target": "game/assets/enemies/vampire_hurt.png",
+    "source_sha256": "19f3407a264396bd4c99071324bf0d07cae1775bbed967e30e908efa668de07d",
+    "sha256": "19f3407a264396bd4c99071324bf0d07cae1775bbed967e30e908efa668de07d",
+    "bytes": 1015
+  },
+  {
+    "source": "asset-packs/Enemy_Animations_Set/Enemy_Animations_Set/enemies-vampire_death.png",
+    "target": "game/assets/enemies/vampire_death.png",
+    "source_sha256": "f5e4659049b4889002f606f6b2bb900e3820390f4080501d2cc809ab975c9d9a",
+    "sha256": "f5e4659049b4889002f606f6b2bb900e3820390f4080501d2cc809ab975c9d9a",
+    "bytes": 2103
+  },
+  {
+    "source": "asset-packs/FreeCharactersAnimationsAssetPack/SpriteSheets(96x96)/Monster_Slime/With_Shadows/Monster_Slime_Idle-Sheet.png",
+    "target": "game/assets/enemies/slime_idle.png",
+    "source_sha256": "15ba5d21802d7de63f51416885348cf50252cd78d37829aa1da818c92f9f9d6f",
+    "sha256": "15ba5d21802d7de63f51416885348cf50252cd78d37829aa1da818c92f9f9d6f",
+    "bytes": 810
+  },
+  {
+    "source": "asset-packs/FreeCharactersAnimationsAssetPack/SpriteSheets(96x96)/Monster_Slime/With_Shadows/Monster_Slime_Walk-Sheet.png",
+    "target": "game/assets/enemies/slime_walk.png",
+    "source_sha256": "044ae4c716d8a20295ad92fd11ac0f3d514c47134595c12a1de684aec2f1571c",
+    "sha256": "044ae4c716d8a20295ad92fd11ac0f3d514c47134595c12a1de684aec2f1571c",
+    "bytes": 1163
+  },
+  {
+    "source": "asset-packs/FreeCharactersAnimationsAssetPack/SpriteSheets(96x96)/Monster_Slime/With_Shadows/Monster_Slime_Attack1-Sheet.png",
+    "target": "game/assets/enemies/slime_attack.png",
+    "source_sha256": "5f3bd3f99820110c6697b6ebb5a320d90c167881b63c0aa67fc918eb4b310ca1",
+    "sha256": "5f3bd3f99820110c6697b6ebb5a320d90c167881b63c0aa67fc918eb4b310ca1",
+    "bytes": 1659
+  },
+  {
+    "source": "asset-packs/FreeCharactersAnimationsAssetPack/SpriteSheets(96x96)/Monster_Slime/With_Shadows/Monster_Slime_Hurt-Sheet.png",
+    "target": "game/assets/enemies/slime_hurt.png",
+    "source_sha256": "4f65466a03845b4c09ce1d02a76c794906511a3a020701aa64a6caec6804460d",
+    "sha256": "4f65466a03845b4c09ce1d02a76c794906511a3a020701aa64a6caec6804460d",
+    "bytes": 834
+  },
+  {
+    "source": "asset-packs/FreeCharactersAnimationsAssetPack/SpriteSheets(96x96)/Monster_Slime/With_Shadows/Monster_Slime_Death-Sheet.png",
+    "target": "game/assets/enemies/slime_death.png",
+    "source_sha256": "9a0b52de54180b12a289f2633513b936e29c24823ea7c8f7557c112d6bd7dda5",
+    "sha256": "9a0b52de54180b12a289f2633513b936e29c24823ea7c8f7557c112d6bd7dda5",
+    "bytes": 1191
+  },
+  {
+    "source": "asset-packs/FreeCharactersAnimationsAssetPack/License.txt",
+    "target": "game/assets/licenses/FreeCharactersAnimationsAssetPack-License.txt",
+    "source_sha256": "fe17ba9f2e13877d0bbefb9274cc4a32bd1deff647df10ca64e1e8dc8e1178e3",
+    "sha256": "fe17ba9f2e13877d0bbefb9274cc4a32bd1deff647df10ca64e1e8dc8e1178e3",
+    "bytes": 193
+  },
+  {
+    "source": "asset-packs/Tiny Swords/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Blue.png",
+    "target": "game/assets/tiny_swords/wood_tower.png",
+    "source_sha256": "c22c288b5bb4f43eeb3054389642dda0d5a7c7bde0f79f15b0ea94282b3818a8",
+    "sha256": "c22c288b5bb4f43eeb3054389642dda0d5a7c7bde0f79f15b0ea94282b3818a8",
+    "bytes": 12043
+  },
+  {
+    "source": "asset-packs/Tiny Swords/Tiny Swords (Update 010)/UI/Banners/Carved_9Slides.png",
+    "target": "game/assets/tiny_swords_ui/panel.png",
+    "source_sha256": "4792041b526cbf8824959b56ff2b820dafbfb7fc6423415b1d035599608f8e3d",
+    "sha256": "4792041b526cbf8824959b56ff2b820dafbfb7fc6423415b1d035599608f8e3d",
+    "bytes": 4886
+  },
+  {
+    "source": "asset-packs/Tiny Swords/Tiny Swords (Update 010)/UI/Buttons/Button_Blue_9Slides.png",
+    "target": "game/assets/tiny_swords_ui/button.png",
+    "source_sha256": "59ef888dc5094f206615916ba4ff15a42dc43fc2d1d50cc9c820fc6390e72ecc",
+    "sha256": "59ef888dc5094f206615916ba4ff15a42dc43fc2d1d50cc9c820fc6390e72ecc",
+    "bytes": 3048
+  },
+  {
+    "source": "asset-packs/Tiny Swords/Tiny Swords (Update 010)/UI/Buttons/Button_Blue_9Slides_Pressed.png",
+    "target": "game/assets/tiny_swords_ui/button_pressed.png",
+    "source_sha256": "f9f08dc6e0900c80c6096291224a375ed6246e5b4f615e9d404cba9eebe3e38c",
+    "sha256": "f9f08dc6e0900c80c6096291224a375ed6246e5b4f615e9d404cba9eebe3e38c",
+    "bytes": 2522
+  },
+  {
+    "source": "asset-packs/Tiny Swords/Tiny Swords (Update 010)/UI/Buttons/Button_Hover_9Slides.png",
+    "target": "game/assets/tiny_swords_ui/button_hover.png",
+    "source_sha256": "07a704762d6aba5675f1d9e6a313bec61040ac15182c17fbc56ad7137c0d5fd8",
+    "sha256": "07a704762d6aba5675f1d9e6a313bec61040ac15182c17fbc56ad7137c0d5fd8",
+    "bytes": 3070
+  },
+  {
+    "source": "asset-packs/Tiny Swords/Tiny Swords (Update 010)/UI/Buttons/Button_Disable_9Slides.png",
+    "target": "game/assets/tiny_swords_ui/button_disabled.png",
+    "source_sha256": "8060425562fde2d68062191712b811896f86e91087e12e9d083cf08ea39f2cb8",
+    "sha256": "8060425562fde2d68062191712b811896f86e91087e12e9d083cf08ea39f2cb8",
+    "bytes": 2578
+  },
+  {
+    "source": "asset-packs/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc with shadows/Orc_Attack01.png",
+    "target": "game/assets/tiny_rpg/orc_attack.png",
+    "source_sha256": "642bd0df611abf91dda5adf2f6061a2d8decc7997f8277d681af6693b6a0f9a7",
+    "sha256": "642bd0df611abf91dda5adf2f6061a2d8decc7997f8277d681af6693b6a0f9a7",
+    "bytes": 2379
+  },
+  {
+    "source": "asset-packs/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc with shadows/Orc_Death.png",
+    "target": "game/assets/tiny_rpg/orc_death.png",
+    "source_sha256": "cf376c07465cd284a838ed0abc977823faa92e0aa4f9db0461e33b11143cc13f",
+    "sha256": "cf376c07465cd284a838ed0abc977823faa92e0aa4f9db0461e33b11143cc13f",
+    "bytes": 1952
+  },
+  {
+    "source": "asset-packs/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc with shadows/Orc_Hurt.png",
+    "target": "game/assets/tiny_rpg/orc_hurt.png",
+    "source_sha256": "9870c61b29eb6594b20b184b3332a6be8c3fdceb002fe5fd2b158b9b054d7eef",
+    "sha256": "9870c61b29eb6594b20b184b3332a6be8c3fdceb002fe5fd2b158b9b054d7eef",
+    "bytes": 2103
+  },
+  {
+    "source": "asset-packs/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc with shadows/Orc_Idle.png",
+    "target": "game/assets/tiny_rpg/orc_idle.png",
+    "source_sha256": "430b6a97ca4cfa80998d53422f3e942cd50ca906335c350e5615651f35c7aef4",
+    "sha256": "430b6a97ca4cfa80998d53422f3e942cd50ca906335c350e5615651f35c7aef4",
+    "bytes": 1522
+  },
+  {
+    "source": "asset-packs/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc with shadows/Orc_Walk.png",
+    "target": "game/assets/tiny_rpg/orc_walk.png",
+    "source_sha256": "6d892ffd6e8fccea65480f89e29ef145faaa05cc742534717023237093f500d7",
+    "sha256": "6d892ffd6e8fccea65480f89e29ef145faaa05cc742534717023237093f500d7",
+    "bytes": 2007
+  },
+  {
+    "source": "asset-packs/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skull/v2/skull_v2_1.png",
+    "target": "game/assets/dungeon/monsters/skull/skull_v2_1.png",
+    "source_sha256": "01e0faab84c338bfe4a032e9c8b1c42cf72b801078c5a27e7ffc818d1e91e4cd",
+    "sha256": "01e0faab84c338bfe4a032e9c8b1c42cf72b801078c5a27e7ffc818d1e91e4cd",
+    "bytes": 409
+  },
+  {
+    "source": "asset-packs/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skull/v2/skull_v2_2.png",
+    "target": "game/assets/dungeon/monsters/skull/skull_v2_2.png",
+    "source_sha256": "65abf07e73118b7eab30d2c6dd69e814f938aaeaf991dc238e6e55e50cc908b3",
+    "sha256": "65abf07e73118b7eab30d2c6dd69e814f938aaeaf991dc238e6e55e50cc908b3",
+    "bytes": 386
+  },
+  {
+    "source": "asset-packs/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skull/v2/skull_v2_3.png",
+    "target": "game/assets/dungeon/monsters/skull/skull_v2_3.png",
+    "source_sha256": "03404811350588740dada80b5603abb006e93a6d3b010d3986f7ed6c9774c7fd",
+    "sha256": "03404811350588740dada80b5603abb006e93a6d3b010d3986f7ed6c9774c7fd",
+    "bytes": 411
+  },
+  {
+    "source": "asset-packs/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skull/v2/skull_v2_4.png",
+    "target": "game/assets/dungeon/monsters/skull/skull_v2_4.png",
+    "source_sha256": "68154b1cf6d33f3da712aa1aa9016bca9d83ef4315c80dc8ac3770df9a017961",
+    "sha256": "68154b1cf6d33f3da712aa1aa9016bca9d83ef4315c80dc8ac3770df9a017961",
+    "bytes": 385
+  }
+]

@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="FortressEnemyTextureProfile" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://game/scripts/defense/enemy_texture_profile.gd" id="1_profile"]
+
+[resource]
+script = ExtResource("1_profile")
+idle_path = "res://game/assets/tiny_rpg/orc_idle.png"
+walk_path = "res://game/assets/tiny_rpg/orc_walk.png"
+attack_path = "res://game/assets/tiny_rpg/orc_attack.png"
+frame_size = Vector2i(100, 100)
+idle_frames = 6
+walk_frames = 8
+attack_frames = 6
+display_scale = 3.0
+foot_anchor = Vector2(50, 60)

@@ -1,0 +1,39 @@
+[gd_resource type="Resource" script_class="FortressDefenseBalance" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://game/scripts/defense/defense_balance.gd" id="1_balance"]
+
+[resource]
+script = ExtResource("1_balance")
+orc_health = 48
+orc_speed = 45.0
+first_spawn_delay = 1.0
+spawn_interval = 3.0
+castle_attack_interval = 2.4
+orc_castle_damage = 10
+tower_level_one_damage = 8
+tower_level_two_damage = 10
+tower_level_one_interval = 0.9
+tower_level_two_interval = 0.75
+tower_range = 330.0
+rally_duration = 4.0
+rally_cooldown = 12.0
+rally_interval_factor = 0.67
+arrow_speed = 510.0
+wave_enemy_counts = Array[int]([6, 8, 10])
+later_round_spawn_intervals = Array[float]([2.75, 2.5])
+archer_scale = 3.0
+archer_shoot_duration = 0.55
+skeleton_health = 48
+armored_skeleton_health = 140
+skull_health = 32
+vampire_health = 110
+skeleton_speed = 45.0
+armored_skeleton_speed = 36.0
+skull_speed = 60.0
+vampire_speed = 58.0
+skeleton_castle_damage = 10
+armored_skeleton_castle_damage = 18
+skull_castle_damage = 8
+vampire_castle_damage = 20
+vampire_castle_attack_interval = 1.8
+vampire_drain_heal = 6

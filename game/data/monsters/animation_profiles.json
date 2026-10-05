@@ -1,0 +1,597 @@
+{
+  "skeleton": {
+    "frame_size": [
+      32,
+      32
+    ],
+    "foot_anchor": [
+      16,
+      29
+    ],
+    "display_scale": 3.0,
+    "animations": {
+      "idle": {
+        "paths": [
+          "res://game/assets/enemies/skeleton_idle.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": true,
+        "source_tag": "skeleton1_idle"
+      },
+      "walk": {
+        "paths": [
+          "res://game/assets/enemies/skeleton_walk.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": true,
+        "source_tag": "skeleton1_movement"
+      },
+      "attack": {
+        "paths": [
+          "res://game/assets/enemies/skeleton_attack.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": false,
+        "source_tag": "skeleton1_attack"
+      },
+      "hurt": {
+        "paths": [
+          "res://game/assets/enemies/skeleton_hurt.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": false,
+        "source_tag": "skeleton1_take_damage"
+      },
+      "death": {
+        "paths": [
+          "res://game/assets/enemies/skeleton_death.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": false,
+        "source_tag": "skeleton1_death"
+      }
+    }
+  },
+  "armored_skeleton": {
+    "frame_size": [
+      32,
+      32
+    ],
+    "foot_anchor": [
+      16,
+      29
+    ],
+    "display_scale": 3.0,
+    "animations": {
+      "idle": {
+        "paths": [
+          "res://game/assets/enemies/armored_skeleton_idle.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": true,
+        "source_tag": "skeleton2_idle"
+      },
+      "walk": {
+        "paths": [
+          "res://game/assets/enemies/armored_skeleton_walk.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": true,
+        "source_tag": "skeleton2_movemen"
+      },
+      "attack": {
+        "paths": [
+          "res://game/assets/enemies/armored_skeleton_attack.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": false,
+        "source_tag": "skeleton2_attack"
+      },
+      "hurt": {
+        "paths": [
+          "res://game/assets/enemies/armored_skeleton_hurt.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": false,
+        "source_tag": "skeleton2_take_damage"
+      },
+      "death": {
+        "paths": [
+          "res://game/assets/enemies/armored_skeleton_death.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          300
+        ],
+        "loop": false,
+        "source_tag": "skeleton2_death"
+      }
+    }
+  },
+  "vampire": {
+    "frame_size": [
+      32,
+      32
+    ],
+    "foot_anchor": [
+      16,
+      29
+    ],
+    "display_scale": 3.0,
+    "animations": {
+      "idle": {
+        "paths": [
+          "res://game/assets/enemies/vampire_idle.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": true,
+        "source_tag": "vampire_idle"
+      },
+      "walk": {
+        "paths": [
+          "res://game/assets/enemies/vampire_walk.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": true,
+        "source_tag": "vampire_movement"
+      },
+      "attack": {
+        "paths": [
+          "res://game/assets/enemies/vampire_attack.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": false,
+        "source_tag": "vampire_attack"
+      },
+      "hurt": {
+        "paths": [
+          "res://game/assets/enemies/vampire_hurt.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": false,
+        "source_tag": "vampire_take_damage"
+      },
+      "death": {
+        "paths": [
+          "res://game/assets/enemies/vampire_death.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": false,
+        "source_tag": "vampire_death"
+      }
+    }
+  },
+  "orc": {
+    "frame_size": [
+      100,
+      100
+    ],
+    "foot_anchor": [
+      50,
+      60
+    ],
+    "display_scale": 3.0,
+    "animations": {
+      "idle": {
+        "paths": [
+          "res://game/assets/tiny_rpg/orc_idle.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": true,
+        "source_tag": "Idle"
+      },
+      "walk": {
+        "paths": [
+          "res://game/assets/tiny_rpg/orc_walk.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": true,
+        "source_tag": "Walk"
+      },
+      "attack": {
+        "paths": [
+          "res://game/assets/tiny_rpg/orc_attack.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": false,
+        "source_tag": "Attack01"
+      },
+      "hurt": {
+        "paths": [
+          "res://game/assets/tiny_rpg/orc_hurt.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": false,
+        "source_tag": "Hurt"
+      },
+      "death": {
+        "paths": [
+          "res://game/assets/tiny_rpg/orc_death.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          600
+        ],
+        "loop": false,
+        "source_tag": "Death"
+      }
+    }
+  },
+  "slime": {
+    "frame_size": [
+      96,
+      96
+    ],
+    "foot_anchor": [
+      48,
+      58
+    ],
+    "display_scale": 4.0,
+    "animations": {
+      "idle": {
+        "paths": [
+          "res://game/assets/enemies/slime_idle.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": true,
+        "source_tag": "Idle"
+      },
+      "walk": {
+        "paths": [
+          "res://game/assets/enemies/slime_walk.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": true,
+        "source_tag": "Walk"
+      },
+      "attack": {
+        "paths": [
+          "res://game/assets/enemies/slime_attack.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": false,
+        "source_tag": "Attack1"
+      },
+      "hurt": {
+        "paths": [
+          "res://game/assets/enemies/slime_hurt.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": false,
+        "source_tag": "Hurt"
+      },
+      "death": {
+        "paths": [
+          "res://game/assets/enemies/slime_death.png"
+        ],
+        "durations_ms": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "loop": false,
+        "source_tag": "Death"
+      }
+    }
+  },
+  "skull": {
+    "frame_size": [
+      16,
+      16
+    ],
+    "foot_anchor": [
+      8,
+      15
+    ],
+    "display_scale": 4.0,
+    "procedural_feedback": true,
+    "animations": {
+      "idle": {
+        "paths": [
+          "res://game/assets/dungeon/monsters/skull/skull_v2_1.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_2.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_3.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_4.png"
+        ],
+        "durations_ms": [
+          125,
+          125,
+          125,
+          125
+        ],
+        "loop": true,
+        "source_tag": "original_idle_feedback"
+      },
+      "walk": {
+        "paths": [
+          "res://game/assets/dungeon/monsters/skull/skull_v2_1.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_2.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_3.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_4.png"
+        ],
+        "durations_ms": [
+          125,
+          125,
+          125,
+          125
+        ],
+        "loop": true,
+        "source_tag": "original_idle_feedback"
+      },
+      "attack": {
+        "paths": [
+          "res://game/assets/dungeon/monsters/skull/skull_v2_1.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_2.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_3.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_4.png"
+        ],
+        "durations_ms": [
+          125,
+          125,
+          125,
+          125
+        ],
+        "loop": false,
+        "source_tag": "original_idle_feedback"
+      },
+      "hurt": {
+        "paths": [
+          "res://game/assets/dungeon/monsters/skull/skull_v2_1.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_2.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_3.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_4.png"
+        ],
+        "durations_ms": [
+          125,
+          125,
+          125,
+          125
+        ],
+        "loop": false,
+        "source_tag": "original_idle_feedback"
+      },
+      "death": {
+        "paths": [
+          "res://game/assets/dungeon/monsters/skull/skull_v2_1.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_2.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_3.png",
+          "res://game/assets/dungeon/monsters/skull/skull_v2_4.png"
+        ],
+        "durations_ms": [
+          125,
+          125,
+          125,
+          125
+        ],
+        "loop": false,
+        "source_tag": "original_idle_feedback"
+      }
+    }
+  }
+}

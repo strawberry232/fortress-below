@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="FortressDemoBalance" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://game/scripts/state/demo_balance.gd" id="1_balance"]
+
+[resource]
+script = ExtResource("1_balance")
+mode = "expedition"
+round_limit = 3

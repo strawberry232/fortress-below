@@ -1,0 +1,613 @@
+[
+  {
+    "alpha_body_bounds": [
+      [
+        43,
+        42,
+        65,
+        59
+      ],
+      [
+        43,
+        38,
+        62,
+        59
+      ],
+      [
+        36,
+        33,
+        57,
+        59
+      ],
+      [
+        43,
+        36,
+        72,
+        61
+      ],
+      [
+        43,
+        42,
+        72,
+        61
+      ],
+      [
+        43,
+        43,
+        70,
+        61
+      ]
+    ],
+    "frame_size": [
+      100,
+      100
+    ],
+    "sha256": "642BD0DF611ABF91DDA5ADF2F6061A2D8DECC7997F8277D681AF6693B6A0F9A7",
+    "resource": "res://game/assets/tiny_rpg/orc_attack.png",
+    "frames": 6,
+    "source_relative": "Characters(100x100 split)/Orc/Orc with shadows/Orc_Attack01.png",
+    "source_sha256": "642BD0DF611ABF91DDA5ADF2F6061A2D8DECC7997F8277D681AF6693B6A0F9A7",
+    "byte_identical": true,
+    "foot_y": 60,
+    "current_role": "active_character",
+    "current_roles": [
+      "defense_enemy"
+    ],
+    "current_usage": "historical_unused"
+  },
+  {
+    "alpha_body_bounds": [
+      [
+        43,
+        42,
+        65,
+        59
+      ],
+      [
+        40,
+        41,
+        65,
+        59
+      ],
+      [
+        37,
+        39,
+        64,
+        59
+      ],
+      [
+        36,
+        46,
+        64,
+        59
+      ]
+    ],
+    "frame_size": [
+      100,
+      100
+    ],
+    "sha256": "CF376C07465CD284A838ED0ABC977823FAA92E0AA4F9DB0461E33B11143CC13F",
+    "resource": "res://game/assets/tiny_rpg/orc_death.png",
+    "frames": 4,
+    "source_relative": "Characters(100x100 split)/Orc/Orc with shadows/Orc_Death.png",
+    "source_sha256": "CF376C07465CD284A838ED0ABC977823FAA92E0AA4F9DB0461E33B11143CC13F",
+    "byte_identical": true,
+    "foot_y": 60,
+    "current_role": "active_character",
+    "current_roles": [
+      "defense_enemy"
+    ],
+    "current_usage": "historical_unused"
+  },
+  {
+    "alpha_body_bounds": [
+      [
+        42,
+        42,
+        64,
+        59
+      ],
+      [
+        42,
+        42,
+        64,
+        59
+      ],
+      [
+        42,
+        42,
+        64,
+        59
+      ],
+      [
+        42,
+        42,
+        64,
+        59
+      ]
+    ],
+    "frame_size": [
+      100,
+      100
+    ],
+    "sha256": "9870C61B29EB6594B20B184B3332A6BE8C3FDCEB002FE5FD2B158B9B054D7EEF",
+    "resource": "res://game/assets/tiny_rpg/orc_hurt.png",
+    "frames": 4,
+    "source_relative": "Characters(100x100 split)/Orc/Orc with shadows/Orc_Hurt.png",
+    "source_sha256": "9870C61B29EB6594B20B184B3332A6BE8C3FDCEB002FE5FD2B158B9B054D7EEF",
+    "byte_identical": true,
+    "foot_y": 60,
+    "current_role": "active_character",
+    "current_roles": [
+      "defense_enemy"
+    ],
+    "current_usage": "historical_unused"
+  },
+  {
+    "alpha_body_bounds": [
+      [
+        43,
+        42,
+        65,
+        59
+      ],
+      [
+        43,
+        42,
+        65,
+        59
+      ],
+      [
+        43,
+        41,
+        65,
+        59
+      ],
+      [
+        43,
+        41,
+        65,
+        59
+      ],
+      [
+        43,
+        42,
+        65,
+        59
+      ],
+      [
+        43,
+        42,
+        65,
+        59
+      ]
+    ],
+    "frame_size": [
+      100,
+      100
+    ],
+    "sha256": "430B6A97CA4CFA80998D53422F3E942CD50CA906335C350E5615651F35C7AEF4",
+    "resource": "res://game/assets/tiny_rpg/orc_idle.png",
+    "frames": 6,
+    "source_relative": "Characters(100x100 split)/Orc/Orc with shadows/Orc_Idle.png",
+    "source_sha256": "430B6A97CA4CFA80998D53422F3E942CD50CA906335C350E5615651F35C7AEF4",
+    "byte_identical": true,
+    "foot_y": 60,
+    "current_role": "active_character",
+    "current_roles": [
+      "defense_enemy"
+    ],
+    "current_usage": "historical_unused"
+  },
+  {
+    "alpha_body_bounds": [
+      [
+        43,
+        42,
+        65,
+        59
+      ],
+      [
+        43,
+        41,
+        65,
+        59
+      ],
+      [
+        43,
+        42,
+        65,
+        59
+      ],
+      [
+        43,
+        43,
+        65,
+        59
+      ],
+      [
+        43,
+        42,
+        65,
+        59
+      ],
+      [
+        43,
+        41,
+        65,
+        59
+      ],
+      [
+        43,
+        42,
+        65,
+        59
+      ],
+      [
+        43,
+        43,
+        65,
+        59
+      ]
+    ],
+    "frame_size": [
+      100,
+      100
+    ],
+    "sha256": "6D892FFD6E8FCCEA65480F89E29EF145FAAA05CC742534717023237093F500D7",
+    "resource": "res://game/assets/tiny_rpg/orc_walk.png",
+    "frames": 8,
+    "source_relative": "Characters(100x100 split)/Orc/Orc with shadows/Orc_Walk.png",
+    "source_sha256": "6D892FFD6E8FCCEA65480F89E29EF145FAAA05CC742534717023237093F500D7",
+    "byte_identical": true,
+    "foot_y": 60,
+    "current_role": "active_character",
+    "current_roles": [
+      "defense_enemy"
+    ],
+    "current_usage": "historical_unused"
+  },
+  {
+    "alpha_body_bounds": [
+      [
+        41,
+        39,
+        57,
+        59
+      ],
+      [
+        41,
+        33,
+        59,
+        59
+      ],
+      [
+        41,
+        34,
+        60,
+        59
+      ],
+      [
+        36,
+        40,
+        69,
+        59
+      ],
+      [
+        36,
+        40,
+        69,
+        59
+      ],
+      [
+        36,
+        40,
+        57,
+        59
+      ]
+    ],
+    "frame_size": [
+      100,
+      100
+    ],
+    "sha256": "907F5BD89B18492E7051FF3B1014A687FB8FFA501AC4486A24A1F58D198B4B20",
+    "resource": "res://game/assets/tiny_rpg/soldier_attack.png",
+    "frames": 6,
+    "source_relative": "Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Attack01.png",
+    "source_sha256": "907F5BD89B18492E7051FF3B1014A687FB8FFA501AC4486A24A1F58D198B4B20",
+    "byte_identical": true,
+    "foot_y": 60,
+    "current_role": "active_character",
+    "current_roles": [
+      "dungeon_player"
+    ],
+    "current_usage": "active"
+  },
+  {
+    "alpha_body_bounds": [
+      [
+        41,
+        39,
+        59,
+        59
+      ],
+      [
+        41,
+        39,
+        57,
+        59
+      ],
+      [
+        41,
+        38,
+        57,
+        59
+      ],
+      [
+        41,
+        39,
+        57,
+        59
+      ],
+      [
+        41,
+        39,
+        62,
+        59
+      ],
+      [
+        41,
+        40,
+        61,
+        59
+      ],
+      [
+        41,
+        40,
+        60,
+        59
+      ],
+      [
+        41,
+        39,
+        76,
+        59
+      ],
+      [
+        41,
+        39,
+        63,
+        59
+      ]
+    ],
+    "frame_size": [
+      100,
+      100
+    ],
+    "sha256": "BC6DBFFBC74809C6CF1D86184D84485F64A4F9835D5FAE307500EC22C3312280",
+    "resource": "res://game/assets/tiny_rpg/soldier_bow.png",
+    "frames": 9,
+    "source_relative": "Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Attack03.png",
+    "source_sha256": "BC6DBFFBC74809C6CF1D86184D84485F64A4F9835D5FAE307500EC22C3312280",
+    "byte_identical": true,
+    "foot_y": 60,
+    "current_role": "active_character",
+    "current_roles": [
+      "dungeon_player",
+      "tower_archer"
+    ],
+    "current_usage": "active"
+  },
+  {
+    "alpha_body_bounds": [
+      [
+        41,
+        39,
+        57,
+        59
+      ],
+      [
+        41,
+        41,
+        57,
+        59
+      ],
+      [
+        45,
+        43,
+        60,
+        59
+      ],
+      [
+        46,
+        47,
+        67,
+        59
+      ]
+    ],
+    "frame_size": [
+      100,
+      100
+    ],
+    "sha256": "2968064E9692C43F7E4941A0106E5B370471F0E9BEAEDC5C40631D9DAEB4C84E",
+    "resource": "res://game/assets/tiny_rpg/soldier_death.png",
+    "frames": 4,
+    "source_relative": "Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Death.png",
+    "source_sha256": "2968064E9692C43F7E4941A0106E5B370471F0E9BEAEDC5C40631D9DAEB4C84E",
+    "byte_identical": true,
+    "foot_y": 60,
+    "current_role": "active_character",
+    "current_roles": [
+      "dungeon_player"
+    ],
+    "current_usage": "active"
+  },
+  {
+    "alpha_body_bounds": [
+      [
+        40,
+        39,
+        57,
+        59
+      ],
+      [
+        40,
+        39,
+        57,
+        59
+      ],
+      [
+        40,
+        39,
+        57,
+        59
+      ],
+      [
+        40,
+        39,
+        57,
+        59
+      ]
+    ],
+    "frame_size": [
+      100,
+      100
+    ],
+    "sha256": "AAA0768CC7DA2CE1FED3AFD02EF7D8C9B2EFEB4BDF797723F51C088BF729F1A6",
+    "resource": "res://game/assets/tiny_rpg/soldier_hurt.png",
+    "frames": 4,
+    "source_relative": "Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Hurt.png",
+    "source_sha256": "AAA0768CC7DA2CE1FED3AFD02EF7D8C9B2EFEB4BDF797723F51C088BF729F1A6",
+    "byte_identical": true,
+    "foot_y": 60,
+    "current_role": "active_character",
+    "current_roles": [
+      "dungeon_player"
+    ],
+    "current_usage": "active"
+  },
+  {
+    "alpha_body_bounds": [
+      [
+        41,
+        39,
+        57,
+        59
+      ],
+      [
+        41,
+        39,
+        57,
+        59
+      ],
+      [
+        41,
+        38,
+        57,
+        59
+      ],
+      [
+        41,
+        38,
+        57,
+        59
+      ],
+      [
+        41,
+        39,
+        57,
+        59
+      ],
+      [
+        41,
+        39,
+        57,
+        59
+      ]
+    ],
+    "frame_size": [
+      100,
+      100
+    ],
+    "sha256": "572776014E1B348E8386CE587855C53E3EBD84B8FBE9041F680A917A9D3B955A",
+    "resource": "res://game/assets/tiny_rpg/soldier_idle.png",
+    "frames": 6,
+    "source_relative": "Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Idle.png",
+    "source_sha256": "572776014E1B348E8386CE587855C53E3EBD84B8FBE9041F680A917A9D3B955A",
+    "byte_identical": true,
+    "foot_y": 60,
+    "current_role": "active_character",
+    "current_roles": [
+      "dungeon_player"
+    ],
+    "current_usage": "active"
+  },
+  {
+    "alpha_body_bounds": [
+      [
+        41,
+        39,
+        57,
+        59
+      ],
+      [
+        41,
+        38,
+        57,
+        59
+      ],
+      [
+        41,
+        39,
+        57,
+        59
+      ],
+      [
+        41,
+        40,
+        57,
+        59
+      ],
+      [
+        41,
+        39,
+        57,
+        59
+      ],
+      [
+        41,
+        38,
+        57,
+        59
+      ],
+      [
+        41,
+        39,
+        57,
+        59
+      ],
+      [
+        41,
+        40,
+        57,
+        59
+      ]
+    ],
+    "frame_size": [
+      100,
+      100
+    ],
+    "sha256": "47AD61833E22238123B591B11D985E08858BFB5098348ADEE496FECB41E54954",
+    "resource": "res://game/assets/tiny_rpg/soldier_walk.png",
+    "frames": 8,
+    "source_relative": "Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Walk.png",
+    "source_sha256": "47AD61833E22238123B591B11D985E08858BFB5098348ADEE496FECB41E54954",
+    "byte_identical": true,
+    "foot_y": 60,
+    "current_role": "active_character",
+    "current_roles": [
+      "dungeon_player"
+    ],
+    "current_usage": "active"
+  }
+]
