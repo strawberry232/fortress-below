@@ -1,10 +1,10 @@
 # 《堡垒之下》
 
-[下载 Windows 试玩版](https://github.com/strawberry232/fortress-below/releases/latest)
+个人制作的 2D 像素风地牢探索与塔防试玩项目，使用 Godot 4.7.2、GDScript 和兼容渲染器。
 
-下载附件为此前已验证的 v1.8 Windows 试玩成品；仓库保存当前开发源码，包含后续调整，本次没有从当前源码重新构建该附件。详见 [构建来源说明](docs/release/build-provenance.md)。
+[下载 Windows 试玩版](https://github.com/strawberry232/fortress-below/releases/latest)（约 13.1 MiB，完整解压后即可运行）
 
-个人制作的 2D 像素风地牢探索与塔防 Demo，使用 Godot 4.7.2、GDScript 和 GL Compatibility 渲染。
+试玩版为已验证的 v1.8 Windows 构建。当前源码包含后续调整，本次未从当前源码重新构建试玩版。详见 [构建来源说明](docs/release/build-provenance.md)。
 
 ## 游戏玩法
 
@@ -17,7 +17,7 @@
 
 ## 试玩画面
 
-以下为稳定试玩版视觉的既有流程验证截图。
+以下截图来自此前稳定试玩版的流程验证。
 
 ![地牢探索](docs/screenshots/dungeon.png)
 
@@ -27,7 +27,7 @@
 
 我负责玩法规划、需求拆解、素材筛选与整合、试玩问题反馈，以及迭代验收和交付。使用 Codex 进行 AI 辅助代码实现、调试和重构，通过 Godot MCP 连接编辑器开展开发。
 
-角色、场景、UI、特效和音频来自网络第三方免费资源。详细来源与区别见 [素材说明](docs/assets-and-attribution.md)。
+角色、场景、界面、特效和音频来自网络第三方免费资源。素材来源与使用说明见 [素材说明](docs/assets-and-attribution.md)。
 
 ## 源码范围与运行
 
@@ -44,13 +44,11 @@
 | 暂停 | Esc |
 | 加大火力 | 空格 / 技能按钮 |
 
-完整开发工程的 v1.8 优化记录为：323 项单元测试通过，完成三轮自动流程验证；Windows 试玩 ZIP 从 43.7 MiB 降至 13.1 MiB，减少约 70%。这些是完整工程的历史结果，本次不将它们作为缺少素材的源码快照已通过运行验证的声明。
+Windows 试玩成品单独放在 GitHub 发布页，试玩无需 Godot 编辑器。
 
-Windows 试玩成品单独放在 GitHub Releases，试玩无需 Godot 编辑器。
+## 开发验证与优化
 
-开发依赖沿用各自许可证；尚未为项目自身代码选定统一开源许可证。第三方素材版权归原作者，不能将依赖许可证视为对全部素材的授权。
-
-## 代码与验证
+完整开发工程的 v1.8 优化记录为：323 项单元测试通过，完成三轮自动流程验证；Windows 试玩 ZIP 从 43.7 MiB 降至 13.1 MiB，减少约 70%。以上为完整 v1.8 工程的历史验证结果，当前缺少素材的源码快照尚未完成完整运行验证。
 
 游戏逻辑位于 `game/scripts/`，关卡与数值配置位于 `game/data/`，测试位于 `test/`，中文文案位于 `docs/localization/`。`tools/` 保留资源优化、定制模板编译与发布脚本；`addons/` 为保留独立许可的 Godot MCP Native 和 GUT。
 
@@ -63,3 +61,7 @@ Windows 试玩成品单独放在 GitHub Releases，试玩无需 Godot 编辑器�
 精简版导出还需要自行编译匹配的引擎模板，仓库不提交模板 EXE；历史过程见 [优化记录](docs/v18-optimization.md)。
 
 导出时可向 `tools/export_release.ps1` 传入 `-GodotPath`，或设置 `GODOT_EXE`，覆盖原开发机的引擎路径。
+
+## 素材与许可
+
+开发依赖沿用各自许可证；尚未为项目自身代码选定统一开源许可证。第三方素材版权归原作者，不能将依赖许可证视为对全部素材的授权。
