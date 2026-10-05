@@ -2,9 +2,9 @@
 
 个人制作的 2D 像素风地牢探索与塔防试玩项目，使用 Godot 4.7.2、GDScript 和兼容渲染器。
 
-[下载 Windows 试玩版](https://github.com/strawberry232/fortress-below/releases/latest)（约 13.1 MiB，完整解压后即可运行）
+[下载 Windows 试玩版 v0.1.0](https://github.com/strawberry232/fortress-below/releases/latest)（约 13.1 MiB，完整解压后即可运行）
 
-试玩版为已验证的 v1.8 Windows 构建。当前源码包含后续调整，本次未从当前源码重新构建试玩版。详见 [构建来源说明](docs/release/build-provenance.md)。
+公开试玩版本为 **v0.1.0**，采用此前已验证的内部 **v1.8** Windows 构建。压缩包名称和试玩说明已同步调整，游戏程序保持原样。当前源码包含后续调整，本次未从当前源码重新构建试玩版。详见 [构建来源说明](docs/release/build-provenance.md)。
 
 ## 游戏玩法
 
@@ -48,7 +48,7 @@ Windows 试玩成品单独放在 GitHub 发布页，试玩无需 Godot 编辑器
 
 ## 开发验证与优化
 
-完整开发工程的 v1.8 优化记录为：323 项单元测试通过，完成三轮自动流程验证；Windows 试玩 ZIP 从 43.7 MiB 降至 13.1 MiB，减少约 70%。以上为完整 v1.8 工程的历史验证结果，当前缺少素材的源码快照尚未完成完整运行验证。
+内部构建 v1.8 的历史优化记录为：323 项单元测试通过，完成三轮自动流程验证；Windows 试玩 ZIP 从 43.7 MiB 降至 13.1 MiB，减少约 70%。以上为完整 v1.8 工程的历史验证结果，当前缺少素材的源码快照尚未完成完整运行验证。
 
 游戏逻辑位于 `game/scripts/`，关卡与数值配置位于 `game/data/`，测试位于 `test/`，中文文案位于 `docs/localization/`。`tools/` 保留资源优化、定制模板编译与发布脚本；`addons/` 为保留独立许可的 Godot MCP Native 和 GUT。
 
